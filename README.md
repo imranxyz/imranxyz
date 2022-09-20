@@ -57,7 +57,7 @@
         <a href='https://www.goodreads.com/book/show/57271519-the-missing-readme'><img alt="The Missing Readme - Chris Riccomini" src="https://miro.medium.com/max/427/1*nKcpSvhFOfB9VAhIdtWqVg.png" height="150" style="margin-right: 5px"/></a>
         <a href='https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/'><img alt="Fluent Python - Luciano Ramalho" src="https://images-na.ssl-images-amazon.com/images/I/411qhFCwczL._SX379_BO1,204,203,200_.jpg" height="150" style="margin-right: 5px"/></a>
         <a href='https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/'><img alt="The Pragmatic Programmer - David Thomas, Andrew Hunt" src="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20.jpg" height="150" style="margin-right: 5px"/></a>
-        <a href='https://www.amazon.com/JavaScript-Toys-T-J-Crowder/dp/1119367956'><img alt="JavaScript: The New Toys - T. J. Crowder" src="https://images.foyles.co.uk/xlarge/books/img/1/1/1/9781119367956.jpg" height="150" style="margin-right: 5px"/></a>
+        <a href='https://www.amazon.com/JavaScript-Toys-T-J-Crowder/dp/1119367956'><img alt="JavaScript: The New Toys - T. J. Crowder" src="https://media.wiley.com/product_data/coverImage300/56/11193679/1119367956.jpg" height="150" style="margin-right: 5px"/></a>
       </td>
     </tr>
   </table>
