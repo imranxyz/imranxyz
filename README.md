@@ -14,7 +14,7 @@
 - 🌍 Mostly active within the **Python Community**
 - 🌱 Learning all about **Django**
 - 💬 Ping me about **Python**
-- 📫 Reach me: [twitter.com/imrandev](https://twitter.com/imrandev)
+- 📫 Reach me: imranzdev@gmail.com
 - 📝 
 
 ## My Current Stack
