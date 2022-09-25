@@ -15,11 +15,13 @@
 - 🌱 Learning all about **Django**
 - 💬 Ping me about **Python**
 - 📫 Reach me: [twitter.com/imrandev](https://twitter.com/imrandev)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 
 
 ## My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"><img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"><img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git">
+
+<!-- <img height="48" src="img/react-original.svg" alt="react"> -->
 
 ## Development Stuffs
 
@@ -70,7 +72,7 @@
 <a href="https://twitter.com/imrandev">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/imrande/">
+<a href="https://www.linkedin.com/in/imran-coder/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="https://www.facebook.com/imranxpotter">
