@@ -1,4 +1,4 @@
-# Hi 👋, I'm a SWE Based on Dhaka, Bangladesh
+# Hi 👋, I'm a Fresh Graduate Based on Dhaka, Bangladesh
 
   <a href="https://github.com/imranxyz?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/imranxyz?color=green&logo=github">
