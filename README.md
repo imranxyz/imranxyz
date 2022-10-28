@@ -1,4 +1,4 @@
-# Hi 👋, I'm a Fresh Graduate Based on Dhaka, Bangladesh
+# Hi, I'm Imran 👋 It's nice to Meet You!
 
   <a href="https://github.com/imranxyz?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/imranxyz?color=green&logo=github">
@@ -9,19 +9,19 @@
 
 ## About me
 
-- 🏢 Currently looking job as **SWE-I** position
+- 🏢 Actively Looking for Opportunities in Software Industry
 - ⚙️ Use daily: `python`, `django`
 - 🌍 Mostly active within the **Python Community**
-- 🌱 Learning all about **Django**
+- 🌱 Improving Myself with **Django, Django Rest Framework, React**
 - 💬 Ping me about **Python**
 - 📫 Reach me: imranzdev@gmail.com
 - 📝 
 
 ## My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"><img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git">
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"><img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 
-<!-- <img height="48" src="img/react-original.svg" alt="react"> -->
+<!--  -->
 
 ## Development Stuffs
 
@@ -44,7 +44,7 @@
     <tr align='center'>
       <td><div style="font-size: 16px; margin-bottom: 0;">📚 <b>Latest Reads</b></div></td>
       <td><div style="font-size: 16px; margin-bottom: 0;">👓 <b>Currently Reading</b></div></td>
-      <td><div style="font-size: 16px; margin-bottom: 0;">🥽 <b>Wanna Read</b></div></td>
+      <td><div style="font-size: 16px; margin-bottom: 0;">🥽 <b>Next</b></div></td>
     </tr>
     <tr>
       <td align="center">
@@ -53,13 +53,13 @@
       </td>
       <td align="center">
         <a href='https://www.goodreads.com/book/show/61250980-skills-of-a-successful-software-engineer'><img alt="Skills of a Successful Software Engineer - Fernando Doglio" src="https://images.manning.com/book/0/bd00979-fc10-4bba-b7c3-4613ad7e9592/Doglio-HI.png" height="150" style="margin-right: 5px"/></a>
-        <a href='https://www.goodreads.com/en/book/show/41392896'><img alt="Beyond the Basic Stuff with Python - Al Sweigart" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601346481l/41392896.jpg" height="150" style="margin-right: 5px"/></a>
+        <a href='https://djangoforapis.com/'><img alt="Django for APIs: Build web APIs with Python & Django" src="https://d33wubrfki0l68.cloudfront.net/a5e42d201c5f21c719deef549317f13c7e30a03d/77b12/assets/images/dfa_cover_40.jpg" height="150" style="margin-right: 5px"/></a>
       </td>
       <td align="center">
         <a href='https://www.goodreads.com/book/show/57271519-the-missing-readme'><img alt="The Missing Readme - Chris Riccomini" src="https://miro.medium.com/max/427/1*nKcpSvhFOfB9VAhIdtWqVg.png" height="150" style="margin-right: 5px"/></a>
         <a href='https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/'><img alt="Fluent Python - Luciano Ramalho" src="https://images-na.ssl-images-amazon.com/images/I/411qhFCwczL._SX379_BO1,204,203,200_.jpg" height="150" style="margin-right: 5px"/></a>
         <a href='https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/'><img alt="The Pragmatic Programmer - David Thomas, Andrew Hunt" src="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/tpp20.jpg" height="150" style="margin-right: 5px"/></a>
-        <a href='https://www.amazon.com/JavaScript-Toys-T-J-Crowder/dp/1119367956'><img alt="JavaScript: The New Toys - T. J. Crowder" src="https://media.wiley.com/product_data/coverImage300/56/11193679/1119367956.jpg" height="150" style="margin-right: 5px"/></a>
+        <a href='https://www.feldroy.com/books/two-scoops-of-django-3-x'><img alt="Two Scoops of Django 3.x" src="https://www.feldroy.com/_next/image?url=%2Fimages%2FTwo-Scoops-of-Django-3-Alpha-Cover_1080x.jpg&w=1080&q=75" height="150" style="margin-right: 5px"/></a>
       </td>
     </tr>
   </table>
@@ -72,11 +72,8 @@
 <a href="https://twitter.com/imrandev">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/imran-coder/">
+<a href="https://www.linkedin.com/in/imran-potter/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://www.facebook.com/imranxpotter">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
 <a href="mailto:imranzdev@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
